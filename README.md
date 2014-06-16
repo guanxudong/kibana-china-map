@@ -1,4 +1,4 @@
 kibana-china-map
 ================
 
-add a map panels for Chinese provinces
+添加一个中国各省份的map panels
