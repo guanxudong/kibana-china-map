@@ -8,3 +8,4 @@ kibana-china-map
 >1. app/panels/map/editor.html  
     修改ng-options="f for f in ['world','europe','usa',**'china'**]"
 >2. app/panels/map/lib目录下，放入**map.china.js**
+>3. kibana add map panels时，"fields"填省份拼音的字段
