@@ -11,4 +11,6 @@ kibana-china-map
 >3. kibana add map panels时，"fields"填省份拼音的字段
 
 
-*注意：如果没有出现china选项，请清理浏览器缓存*
+*注意：如果没有出现china选项，请清理浏览器缓存*  
+![github](https://github.com/guanxudong/kibana-china-map/blob/master/add_panel.png)
+![github](https://github.com/guanxudong/kibana-china-map/blob/master/screeshot.png)
